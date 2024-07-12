@@ -1,6 +1,6 @@
 ### Hi there 👋  My Name is Mark Mwangi || Full-Stack Developer
 # 💫 About:
-🔭 I’m currently working on becoming a full-stack engineer.<br>👯 I’m looking to collaborate on both front-end and back-end applications.<br>🤝 I’m looking for help with Mobile Development.<br>🌱 I’m currently learning Django.<br>
+🔭 I’m currently working on becoming a full-stack engineer.<br>👯 I’m looking to collaborate on both front-end and back-end applications.<br>🤝 I’m looking for help with Mobile Development.<br>🌱 I’m currently learning PHP(Laravel).<br>
 
 
 ## 🌐 Socials:
